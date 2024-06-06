@@ -1,1 +1,1 @@
-# This is a simple POW Blockchain 🔗
+# This is pow blockchain 
